@@ -29,8 +29,6 @@ RECORD_NAME="sub.yourdomain.com"   # Full subdomain (DNS record)
 CF_API_TOKEN="your_cloudflare_api_token"  # Cloudflare API Token
 ```
 
-> It is recommended to use a token with **Zone:DNS:Edit** permissions only for security.
-
 3. Make the Script Executable
 ```bash
 chmod +x DDNS.sh
