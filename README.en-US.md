@@ -3,7 +3,7 @@
 This is a **Cloudflare Dynamic DNS (DDNS) update script** implemented using **Bash + curl + jq**.  
 It automatically retrieves the public IPv4 address of your machine and updates the corresponding **A record** on Cloudflare, ensuring your dynamic IP is always synchronized with your domain.
 
-## 🌐 Language
+## 🌐 Language语言
 [中文](https://github.com/JasonL111/DDNS_Lite)
 
 ## 📌 Features

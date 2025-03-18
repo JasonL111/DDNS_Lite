@@ -2,7 +2,7 @@
 
 这是一个基于 **Bash + curl + jq** 实现的 **Cloudflare 动态 DNS（DDNS）更新脚本**，可自动获取本机公网 IP，并更新到 Cloudflare 上的 A 记录，实现动态公网 IP 的自动同步。
 
-## 语言 Language
+## 🌐语言 Language
 [English](https://github.com/JasonL111/DDNS_Lite/blob/main/README.en-US.md)
 
 ## 📌 功能说明
